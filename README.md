@@ -14,41 +14,41 @@
 #### 주요 프로젝트 `Work Experience`
 > <h6>대한무역투자진흥공사(KOTRA) 보이는 ARS 시스템 구축사업 [2019.07~2019.11]</h6>
 >> Language : JAVA<br>
->> DB : Mysql<br>
->> System : Windows, Linux CentOS 6.5<br>
->> Tool : Eclipse<br>
+ DB : Mysql<br>
+ System : Windows, Linux CentOS 6.5<br>
+ Tool : Eclipse<br>
 - 보이는 ARS 시스템이 처음 도입됨으로써 콜게이트와의 연동을 수행하는 <u>자바 소켓통신기반 게이트웨이 서비스 최초개발</u><br>
 - IVR 시스템과 게이트웨이가 통신 할 수 있는 <u>연동규격 정의</u><br>
 - 보이는 ARS 시나리오 개발 및 콜센터 구축<br>
 > <h6>서울보증보험 보이는 ARS 시스템 구축사업 [2019.08 ~ 2019.12]</h6>
 >> Language : C++, JAVA<br>
->> DB : Mysql<br>
->> System : Windows<br>
->> Tool : Visual Studio 2017, Eclipse<br>
+ DB : Mysql<br>
+ System : Windows<br>
+ Tool : Visual Studio 2017, Eclipse<br>
 - 기존 <u>C++ 소스를 그대로 사용하기 위해 자바로 개발된 게이트웨이 서비스와 연동하여 콜게이트와 통신하도록 추가 개발</u><br>
 - 서울보증보험 기간계 프로그램과 웹통신하여 데이터 관리 및 시나리오에 응용부분 추가개발<br>
 - 서비스 코드를 이용한 <u>통계 개발</u><br>
 - 보이는 ARS 시나리오 개발 및 콜센터 구축<br>
 > <h6>네파 시스템 고도화 및 이중화 사업 [2019.07 ~ 2019.10]</h6>
 >> Language : JAVA<br>
->> DB : Oracle 11g<br>
->> System : Windows, CentOS 7<br>
->> Tool : Eclipse<br>
+ DB : Oracle 11g<br>
+ System : Windows, CentOS 7<br>
+ Tool : Eclipse<br>
 - <u>Oracle 연동 IVR 시스템 개발</u><br>
 - 음성 ARS 시나리오 개발 및 콜센터 구축<br>
 > <h6>부산보훈병원 상담센터 시스템 고도화[2019.12 ~ 2020.02]</h6>
 >> Language : JAVA<br>
->> DB : Mysql<br>
->> System : Windows, CentOS 7<br>
->> OpenSource : Docker<br>
->> Tool : Eclipse<br>
+ DB : Mysql<br>
+ System : Windows, CentOS 7<br>
+ OpenSource : Docker<br>
+ Tool : Eclipse<br>
 - 사이트의 <u>개발 및 운영환경 동일화를 위한 Docker 최초 도입</u><br>
 - 음성 ARS 시나리오 개발 및 콜센터 구축<br>
 > <h6>IBK연금보험 콜센터 인프라 환경 개선 사업 [2018.12 ~ 2019.06]</h6>
 >> Language : JAVA<br>
->> DB : Mysql<br>
->> System : Windows, CentOS 7<br>
->> Tool : Eclipse<br>
+ DB : Mysql<br>
+ System : Windows, CentOS 7<br>
+ Tool : Eclipse<br>
 - JAVA 기반 <u>SC+(SAMSUNG CTI) 연동 최초 개발</u><br>
 - <u>IVR 시스템 이중화 구성</u><br>
 - <u>Mysql Replication</u>을 통한 Database 이중화구성<br>
@@ -57,18 +57,18 @@
 - 개발서버, Staging 서버, DR 서버 구축 및 운영 콜센터시스템 구축<br>
 > <h6>더존 IVR 시스템 구축 사업 [2018.10 ~ 2019.04]</h6>
 >> Language : JAVA<br>
->> DB : Mysql<br>
->> System : Windows, CentOS 7<br>
->> Tool : Eclipse<br>
+ DB : Mysql<br>
+ System : Windows, CentOS 7<br>
+ Tool : Eclipse<br>
 - <u>ARS 결제시스템 구축</u><br>
 - 고객사측 ERP 시스템 연동을 위해 <u>Java 기반 Ajax Gateway 웹서비스 개발</u><br>
 - CTI 상태 및 데이터 통신을 위한 <u>Ajax Gateway 연동 규격 정의</u><br>
 - 부서 별 IVR 시나리오 구축<br>
 > <h6>AT센터 상담 IVR 구축 사업 [2018.06 ~ 2018.10]</h6>
 >> Language : JAVA, Lua Script<br>
->> DB : Mysql<br>
->> System : Windows, CentOS 7<br>
->> Tool : Eclipse, Visual Studio Code<br>
+ DB : Mysql<br>
+ System : Windows, CentOS 7<br>
+ Tool : Eclipse, Visual Studio Code<br>
 - HA 서버 이중화<br>
 - <u>Lua Script 기반 IVR</u> 시스템<br>
 > <h6>기타 구축 및 유지보수 사이트</h6>
