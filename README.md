@@ -37,7 +37,7 @@
 - <u>Oracle 연동 IVR 시스템 개발</u><br>
 - 음성 ARS 시나리오 개발 및 콜센터 구축<br>
 > <h6>부산보훈병원 상담센터 시스템 고도화[2019.12 ~ 2020.02]</h6>
->> Language : JAVA<br>
+	Language : JAVA<br>
 	DB : Mysql<br>
 	System : Windows, CentOS 7<br>
 	OpenSource : Docker<br>
@@ -45,7 +45,7 @@
 - 사이트의 <u>개발 및 운영환경 동일화를 위한 Docker 최초 도입</u><br>
 - 음성 ARS 시나리오 개발 및 콜센터 구축<br>
 > <h6>IBK연금보험 콜센터 인프라 환경 개선 사업 [2018.12 ~ 2019.06]</h6>
->> Language : JAVA<br>
+	Language : JAVA<br>
 	DB : Mysql<br>
 	System : Windows, CentOS 7<br>
 	Tool : Eclipse<br>
@@ -56,7 +56,7 @@
 - 자체 OCX 연동 추가개발<br>
 - 개발서버, Staging 서버, DR 서버 구축 및 운영 콜센터시스템 구축<br>
 > <h6>더존 IVR 시스템 구축 사업 [2018.10 ~ 2019.04]</h6>
->> Language : JAVA<br>
+	Language : JAVA<br>
 	DB : Mysql<br>
 	System : Windows, CentOS 7<br>
 	Tool : Eclipse<br>
