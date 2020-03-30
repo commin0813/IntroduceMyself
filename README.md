@@ -5,25 +5,28 @@
 
 ----------
 #### 사용기술 `Available Skill`
-> **Language**   :  JAVA(상), SQL(중), Lua Script(중), C++(하), Python(하)<br>
+> **Language**   :  JAVA(상), SQL(중), Lua Script(중), C/C++(하), Python(하)<br>
 > **Database**   :  Mysql(중), Oracle(11g,12g)(중), MSSql(중)<br>
 > **Framwork**   :  ANT, JUnit, Log4j<br>
 > **OpenSource** :  Docker, Asterisk<br>
-> **System**     :  Windows, CentOS7<br>
-> **Tool**       :  Eclipse, Git, SVN, Visual Basic Code, InteliJ<br>
+> **System**     :  Windows, Linux CentOS7<br>
+> **Tool**       :  Eclipse, Git, SVN, Visual Studio 2017/2010, Visual Basic Code, InteliJ<br>
 #### 주요 프로젝트 `Work Experience`
-> **2019-2020**
-> <h6>서울보증보험</h6>
+> <h6>서울보증보험 보이는 ARS S/W 구축사업 [2019.08 ~ 2019.12]</h6>
+>> Language : C++<br>
+>> DB : Mysql<br>
+>> System : Windows<br>
+>> Tool : Visual Studio 2017<br>
+>> - 보이는 ARS 시나리오 개발 및 콜게이트 연동<br>
+> <h6>코트라</h6>
+
 > <h6>IBK연금보험</h6>
 > <h6>한국투자증권</h6>
-> <h6>코트라</h6>
 > <h6>AT센터</h6>
-> **2018-2019**
 > <h6>인하대병원</h6>
 > <h6>인천성모병원</h6>
 > <h6>보훈병원</h6>
 > <h6>양산시청</h6>
-> **2017-2018**
 > <h6>안양시청</h6>
 > <h6>더존</h6>
 > <h6>네파</h6>
@@ -44,7 +47,8 @@
 
 ----------
 #### 사용기술 `Available Skill`
-> **Language**   :  JAVA(상), Android(중), HTML5/CSS(중)<br>
+> **Language**   :  JAVA(상), HTML5/CSS(중)<br>
+> **Platform**   :  Android(중)<br>
 > **Database**   :  Mysql(상), PostgreSQL(중)<br>
 > **Framwork**   :  Ionic, Angular JS, DEV Express<br>
 > **System**     :  Windows, CentOS7<br>
